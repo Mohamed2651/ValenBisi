@@ -1,7 +1,7 @@
 # ValenBici 🚲
 
 [![Versión](https://img.shields.io/badge/version-1.0-blue)](https://github.com/Mohamed2651/ValenBici/releases)  
-[![Descargar APK](https://img.shields.io/badge/Descargar-APK-green?logo=android)](https://github.com/Mohamed2651/ValenBici/raw/main/apk/ValenBici.apk)
+[![Descargar APK](https://img.shields.io/badge/Descargar-APK-green?logo=android)](https://github.com/Mohamed2651/ValenBici/apk/ValenBici.apk)
 
 ValenBici es una aplicación Android que permite consultar en tiempo real la disponibilidad de bicicletas y espacios libres en las estaciones de ValenBisi, el sistema de bicicletas públicas de Valencia.
 
